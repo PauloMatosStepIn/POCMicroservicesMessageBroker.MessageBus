@@ -1,0 +1,12 @@
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\obj\Debug\net6.0\StepIn.MessageBus.csproj.AssemblyReference.cache
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\obj\Debug\net6.0\StepIn.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\obj\Debug\net6.0\StepIn.MessageBus.AssemblyInfoInputs.cache
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\obj\Debug\net6.0\StepIn.MessageBus.AssemblyInfo.cs
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\obj\Debug\net6.0\StepIn.MessageBus.csproj.CoreCompileInputs.cache
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\bin\Debug\net6.0\StepIn.MessageBus.deps.json
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\bin\Debug\net6.0\StepIn.MessageBus.dll
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\bin\Debug\net6.0\StepIn.MessageBus.pdb
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\obj\Debug\net6.0\StepIn.MessageBus.dll
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\obj\Debug\net6.0\refint\StepIn.MessageBus.dll
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\obj\Debug\net6.0\StepIn.MessageBus.pdb
+C:\formacao\microservicos\StepIn.Microservicos\StepIn.MessageBus\obj\Debug\net6.0\ref\StepIn.MessageBus.dll
